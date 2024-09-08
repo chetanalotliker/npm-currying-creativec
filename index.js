@@ -6,4 +6,4 @@ function currying(a) {
     }
 }
 currying(2)(3)(4);
-module.export = currying; 
+module.exports = currying; 

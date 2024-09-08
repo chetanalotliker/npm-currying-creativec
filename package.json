@@ -1,6 +1,6 @@
 {
   "name": "currying-creativec",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a node package which uses javascript currying method to multiply given numbers",
   "main": "index.js",
   "scripts": {
